@@ -1,6 +1,7 @@
-<h3 align="center">SWE/CS Student @ Monash Clayton</h3>
 
+- 🌱 I'm Fiona!
 - 📫 email **fionaxkim@gmail.com**
+- 🔭 SWE/CS @ Monash Clayton
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
