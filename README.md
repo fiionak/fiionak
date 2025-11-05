@@ -1,6 +1,5 @@
 
 - 🌱 I'm Fiona!
-- 📫 email **fionaxkim@gmail.com**
 - 🔭 SWE/CS @ Monash Clayton
 
 <h3 align="left">Still learnin</h3>
